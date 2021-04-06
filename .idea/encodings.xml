@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-admin/admin-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-admin/admin-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-chan" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-chan/chan-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-chan/chan-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-finance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-finance/finance-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-finance/finance-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-iaas" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-iaas/authorization-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-iaas/gateway-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-member/member-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-member/member-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-statistics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-statistics/statistics-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-statistics/statistics-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exchange-engine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exchange-engine/exchange-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exchange-engine/exchange-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/match-engine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/match-engine/match-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/match-engine/match-service" charset="UTF-8" />
+  </component>
+</project>
